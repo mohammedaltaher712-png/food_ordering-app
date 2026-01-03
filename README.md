@@ -46,33 +46,20 @@ npm run dev    # or yarn / pnpm
 
 # 6. Open in browser
 # http://localhost:3000
-🏷 Tech Stack
-Frontend	Backend	Database	UI / Styling	State Management	Auth
-Next.js 15	Node.js	PostgreSQL	Tailwind + shadcn/ui	Redux Toolkit	NextAuth
-TypeScript	Prisma	Migrations	Responsive Design	Slice & RTK Query	JWT/OAuth
-🌍 Languages Supported
 
-English 🇺🇸
+---
 
-Arabic 🇸🇦 / عربي 🌐
+🏷 **Tech Stack**
+- **Frontend:** Next.js 15, TypeScript
+- **Backend:** Node.js, Prisma ORM
+- **Database:** PostgreSQL, Prisma Migrations
+- **UI / Styling:** Tailwind CSS + shadcn/ui, Responsive Design
+- **State Management:** Redux Toolkit, Slice & RTK Query
+- **Authentication:** NextAuth, JWT / OAuth
 
-⭐ Contributing
+🌍 **Languages Supported**
+- English 🇺🇸
+- Arabic 🇸🇦 / عربي 🌐
 
+⭐ **Contributing**
 Fork the repository and submit PRs for improvements or bug fixes.
-
-📄 License
-
-MIT License
-
-
-✅ هذه النسخة **جاهزة تمامًا للنسخ على GitHub** وتشمل:  
-- Badges لكل الأدوات المستخدمة  
-- كل Features الرئيسية  
-- Quick Start كامل من **Clone → Install → Env → Migrate → Run**  
-- جدول Tech Stack منسق  
-- دعم اللغات الإنجليزية والعربية  
-- Contributing + License  
-
-إذا أحببت، أستطيع أن أصنع لك **نسخة Minimal جدًا** تكون **مختصرة جدًا للعرض السريع على GitHub** بدون جدول، فقط Badges ونقاط التشغيل الأساسية.  
-
-هل تريد أن أصنع لك هذه النسخة Minimal أيضًا؟
